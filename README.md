@@ -3,7 +3,7 @@
 
 <img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/8f294cc3c344f5cfd78923f763b64ba825f7dc7d165f3296e7702d8725001f28/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d373930623736313138646632393065326232333930316234313132316361633934623962346538646232346462303462267269643d67697068792e6769662663743d67">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=radhesham7507&label=Profile%20views&color=0e75b6&style=flat" alt="radhesham7507" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=radhesham7507&label=Profile%20views&color=0e75b6&style=flat" alt="radhesham7507" /> </p>
 
 - 🔭 I’m currently working on **A Software Developer with expertise in Backend Development and understanding in delivering software solutions based on business requirements.**
 
