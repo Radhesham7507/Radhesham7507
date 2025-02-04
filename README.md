@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **A Software Developer with expertise in Backend Development and understanding in delivering software solutions based on business requirements.**
 
 
-- 💬 Ask me about **Java ,Springboot ,Aws ,React , Phython**
+- 💬 Ask me about **Java ,Springboot ,Aws ,React , Python**
 
 - 📫 How to reach me **radheshamdhadve@gmail.com**
 
