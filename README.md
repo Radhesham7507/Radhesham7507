@@ -1,4 +1,5 @@
-![logo](https://github.com/Radhesham7507/Radhesham7507/blob/master/Radhesham%20(1).png)
+<img width=100% height=auto src="https://github.com/Radhesham7507/Radhesham7507/blob/master/Radhesham%20(1).png">
+<!-- ![logo](https://github.com/Radhesham7507/Radhesham7507/blob/master/Radhesham%20(1).png) -->
 <h1 align="center">Hi 👋, I'm Radhesham Dhadve</h1>
 <h3 align="center">A passionate Backend developer from India</h3> 
 
